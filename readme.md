@@ -1,6 +1,4 @@
-Here's the improved Markdown version with better structure, readability, and formatting:
 
-```markdown
 # DNABERT-Hybrid Metagenomics Pipeline for Novel Species Detection
 
 A comprehensive pipeline combining DNABERT with traditional metagenomics approaches for novel species detection.
